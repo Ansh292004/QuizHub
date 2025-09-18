@@ -12,7 +12,7 @@ This is a React-based quiz application.
 	•	CSS3
  ## Project Setup
 	1.	Clone this repository:
- 	 	git clone [https://github.com/Ansh292004/QuizHub.git] (https://github.com/Ansh292004/QuizHub.git)
+ 	 	git clone https://github.com/Ansh292004/QuizHub.git
   	 	cd QuizHub
 	 
 	2.	Install dependencies:
