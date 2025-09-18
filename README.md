@@ -12,7 +12,7 @@ This is a React-based quiz application.
 	•	CSS3
  ## Project Setup
 	1.	Clone this repository:
- ```
+ 
   git clone https://github.com/your-username/quiz-app.git
   cd quiz-app
-```
+
