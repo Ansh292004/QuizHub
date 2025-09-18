@@ -2,26 +2,26 @@
 
 This is a React-based quiz application.
 ## Features
-	•	Responsive and modern UI
-	•	Smooth hover and click effects
-	•	Instant feedback on answers
+	• Responsive and modern UI
+	• Smooth hover and click effects
+	• Instant feedback on answers
 
 ## Tech Stack
-	•	React.js
-	•	JavaScript (ES6+)
-	•	CSS3
+	• React.js
+	• JavaScript (ES6+)
+	• CSS3
  ## Project Setup
-	1.	Clone this repository:
+	1. Clone this repository:
  	 	git clone https://github.com/Ansh292004/QuizHub.git
   	 	cd QuizHub
 	 
-	2.	Install dependencies:
+	2. Install dependencies:
  		npm install
    
-   	3.	Run the development server:
+   	3. Run the development server:
 		npm run dev
 
-  	4.	open in browser:
+  	4. open in browser:
    		http://localhost:5187
 ## Project Structure
 	QuizHub/
