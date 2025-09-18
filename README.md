@@ -1,4 +1,4 @@
-# Quiz App
+# QuizHub
 
 This is a React-based quiz application.
 ## Features
